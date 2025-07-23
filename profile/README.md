@@ -104,17 +104,6 @@ Link a la tabla en google sheets:
 Link al Draw.io:  
 [https://drive.google.com/file/d/1bmOX4r8V6BfhNnyjw4\_RSe9aOjnPfOul/view?usp=sharing](https://drive.google.com/file/d/1bmOX4r8V6BfhNnyjw4_RSe9aOjnPfOul/view?usp=sharing)
 
-**Pendientes:**
-
-- [x] ~~**Escenarios**~~  
-- [ ] **Diagrama de secuencia (Al Menos 5 operaciones)**  
-- [x] ~~**Diagrama de Componentes (Logicos y Tecnicos) (Ver Definición abajo)**~~  
-- [ ] **Diagrama de despliegue con las tecnologías, protocolos, formatos de mensajería a usar por la solución**  
-        
-- [ ] **Documento de Architectural decisions con:**  
-* **Decisiones de arquitectura que reflejen los criterios de evaluación para despliegue de componentes en la nube, on-premise, etc**  
-* **Decisiones de arquitectura que refleje el racional para la selección de tecnologias**
-
 **Diagrama de componentes**
 
 ![][image3]
